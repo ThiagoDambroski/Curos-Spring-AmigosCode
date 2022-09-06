@@ -3,7 +3,6 @@ package com.dambroski.demo.student;
 import java.time.LocalDate;
 import java.util.List;
 
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 @Service
