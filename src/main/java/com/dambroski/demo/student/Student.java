@@ -1,7 +1,6 @@
 package com.dambroski.demo.student;
 
 import java.time.LocalDate;
-import java.util.Objects;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
